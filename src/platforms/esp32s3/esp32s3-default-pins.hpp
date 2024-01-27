@@ -11,8 +11,8 @@
 #define A_PIN_DEFAULT  18
 #define B_PIN_DEFAULT  8
 #define C_PIN_DEFAULT  3
-#define D_PIN_DEFAULT  42
-#define E_PIN_DEFAULT  -1 // required for 1/32 scan panels, like 64x64. Any available pin would do, i.e. IO32
-#define LAT_PIN_DEFAULT 40
+#define D_PIN_DEFAULT  48
+#define E_PIN_DEFAULT  40 // required for 1/32 scan panels, like 64x64. Any available pin would do, i.e. IO32
+#define LAT_PIN_DEFAULT 45
 #define OE_PIN_DEFAULT  2
-#define CLK_PIN_DEFAULT 41
+#define CLK_PIN_DEFAULT 35
